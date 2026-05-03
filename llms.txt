@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حياتي ما تجرح قلبي كدا
+> أنا روحي معاك في كل المدى
+> صوتك في قلبي أجمل صدى
+> وهواك في دمي سحر وندى
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
