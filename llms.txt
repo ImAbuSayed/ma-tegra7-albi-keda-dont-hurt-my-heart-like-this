@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-tegra7-albi-keda-dont-hurt-my-heart-like-this/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use Ma Tegra7 Albi Keda – Don't Hurt My Heart Like This](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
